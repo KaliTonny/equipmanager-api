@@ -1,0 +1,1 @@
+# equipmanager-api
